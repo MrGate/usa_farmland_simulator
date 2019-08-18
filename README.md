@@ -1,2 +1,7 @@
 # usa_farmland_simulator
-this is to simulate the growing number of population and required farmland.
+
+A simple farmland to population simulator.
+The purpose is to estimate the amount of land that will be used over the
+next {x} amount of years.
+
+This was also just a fun tiny project to do in python.
